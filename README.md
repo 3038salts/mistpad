@@ -23,7 +23,7 @@ Made with KiCAD
 - 4x Cherry MX Switches
 - 4x DSA Keycaps
 - 1x 0.91" 128x32 OLED Display
-- 5x M3x5x4 Heatset inserts
-- 5x M3x16mm screws
+- 4x M3x5x4 Heatset inserts
+- 4x M3x16mm screws
 - 4x SK6812 LEDs
 - 1x Case (2 3D-printed parts)
