@@ -2,11 +2,11 @@
 
 mistpad is a 4-key macropad featuring an OLED Display and 4 SK6812 mini-LEDs. It uses QMK firmware.
 
-<img src=assets/design.png alt="overall design" width="800">
+<img src=assets/design.png alt="overall design" width="900">
 
 ## CAD Model:
 
-<img src=assets/cad.png alt="cad model" width="500"/>
+<img src=assets/cad.png alt="cad model" width="600"/>
 
 Made with Autodesk Fusion
 
